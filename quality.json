@@ -1,0 +1,9 @@
+{
+  "rows": 153,
+  "missing": {
+    "ozone_ppb": 37,
+    "solar_langley": 7
+  },
+  "first_day": "1973-05-01",
+  "last_day": "1973-09-30"
+}
